@@ -1,50 +1,17 @@
-## Hi there, I'm Surya 👋
+## Hi there! 👋
 
+I'm Surya, a Go developer who occasionally tinker with JavaScript.  I enjoy "Go-ing" the extra mile to build efficient solutions and learning new things.
 
-<p>
-I'm full stack developer mainly focused on 
-    <a href="https://go.dev/" target="_blank">
-        <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-    </a> 
-    and
-    <a href="https://vuejs.org/" target="_blank">
-        <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
-    </a>
-</p>
+### 🌱 In my free time
+When not "rooted" in code, I "leaf" my desk to enjoy gardening. It helps me stay "grounded"
 
-### Where to find me
+### 📫 Feel Free to Reach Me
+<p><a href="mailto:hello@surya.codes" target="_blank"><img alt="Email"src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=red"/></a> <a 
+href="https://www.linkedin.com/in/dewanggasurya" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a 
+href="https://surya.codes" target="_blank"><img alt="Personal Website"src="https://img.shields.io/badge/surya.codes-%2312100E.svg?&style=for-the-badge&logoColor=white"/></a></p>
 
-<p>
-    <a href="https://surya.codes" target="_blank"
-        ><img
-            alt="Personal Website"
-            src="https://img.shields.io/badge/surya.codes-%2312100E.svg?&style=for-the-badge&logo=hugo&logoColor=white"
-    /></a>
-    <a href="https://twitter.com/dewanggasurya" target="_blank"
-        ><img
-            alt="Twitter"
-            src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"
-    /></a>
-    <a href="https://www.linkedin.com/in/dewanggasurya" target="_blank"
-        ><img
-            alt="LinkedIn"
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-    /></a>    
-</p>
+<sub>🙈 Sorry for the Puns. I couldn't "contain" myself—they just "compiled" in my head! </sub>
 
-### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewanggasurya&hide=html&layout=compact&theme=dark)
-<!--
-**dewanggasurya/dewanggasurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by! 🚀
